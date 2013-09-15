@@ -1,0 +1,2 @@
+Here I create thee a jekyll project.  Why?  Because Jekyll has a good tumblr to markdown importer.  
+The aim's to get the Tumblr posts on Middleman.  Jekyll, just a middleman in this situation. How ironic.  A transient gateway to another static based site.  Ironic indeed.
